@@ -12,12 +12,16 @@
     "react-dom": "^15.6.1",
     "react-modal": "^2.2.4",
     "react-redux": "^5.0.6",
+    "material-ui": "^0.19.1",
+    "mui-icons": "^1.2.1",
+    "react-fontawesome": "^1.6.1",
     "react-router-dom": "^4.2.2",
     "react-scripts": "1.0.10",
     "react-widgets": "^3.4.8",
     "redux": "^3.7.2",
     "redux-form": "^7.0.3",
-    "redux-thunk": "^2.2.0"
+    "redux-thunk": "^2.2.0",
+    "sort-by": "^1.2.0"
   },
   "scripts": {
     "start": "react-scripts start",
