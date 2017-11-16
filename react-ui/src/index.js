@@ -1,7 +1,6 @@
 import React from 'react';
 import ReactDOM from 'react-dom'
 import './index.css'
-import 'font-awesome/css/font-awesome.min.css'
 import * as postsActions from './Actions/postsActions'
 import * as commentsActions from './Actions/commentsActions'
 import App from './Components/App';
