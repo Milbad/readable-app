@@ -1,7 +1,7 @@
 import * as actionTypes from './actionsTypes'
 import {requestPosts} from '../Actions/postsActions'
 
-const api = 'https://localhost:5001'
+const api = ''//http://localhost:5001'
 
 // Generate a unique token for storing your bookshelf data on the backend server.
 let token = localStorage.token
