@@ -7,7 +7,7 @@ This is the project for the final assessment project for Udacity's React and Red
 ## How to run the application
 - Download the repository in your desktop and unzip it
 - Open your terminal and run `npm install` and `npm start`
-- This project also use a node server. So you will need to run `node server` in you terminal as well
+- This project also uses a node server. So you will need to run `node server` in you terminal as well
 
 ## Backend Server
 
